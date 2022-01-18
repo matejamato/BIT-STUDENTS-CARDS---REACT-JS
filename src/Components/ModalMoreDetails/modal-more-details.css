@@ -1,0 +1,26 @@
+.modal-more-details-background{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-more-details-content{
+  position: absolute;
+  margin: 0 auto;
+  top: 20%;
+  right: 0;
+  left: 0;
+  height: 40vh;
+  width: 400px;
+  background-color: white;
+}
+
+.close-modal{
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 10px;
+}

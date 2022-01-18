@@ -1,0 +1,10 @@
+.lecturer-card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid blue;
+  width: 400px;
+  margin: 15px;
+  padding: 15px 0;
+}

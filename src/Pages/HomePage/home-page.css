@@ -1,0 +1,11 @@
+.student-cards-wrapper{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+header{
+  background-color: aquamarine;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
